@@ -1,0 +1,40 @@
+_repo: Les-crimes-de-l-amour--13-Pr-c-d--d-un-avant-propos-suivi-des-id-es-sur-les-romans-de-l-auteu__28718
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sade, marquis de
+    aliases:
+    - Sade, Donatien-Alphonse-François, marquis de
+    - Sade, Donatien Alphonse Francois de, comte, called Marquis de
+    - Sade, D.-A.-F. (Donatien-Alphonse-François)
+    - De Sade, marquis
+    - Sade, Donatien Alphonse François de, comte, called Marquis de
+    - Marquis de Sade
+    birthdate: 1740
+    deathdate: 1814
+    gutenberg_agent_id: '6995'
+    url: http://www.gutenberg.org/2009/agents/6995
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Donatien_Alphonse_Fran%C3%A7ois_de_Sade
+    - http://en.wikipedia.org/wiki/Marquis_de_Sade
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28718'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erotic literature, French'
+- !lcc 'PQ'
+title: "Les crimes de l'amour\r\nPrécédé d'un avant-propos, suivi des idées sur les\
+  \ romans, de l'auteur des crimes de l'amour à Villeterque, d'une notice bio-bibliographique\
+  \ du marquis de Sade: l'homme et ses écrits et du discours prononcé par le marquis\
+  \ de Sade à la section des piques."
+url: http://www.gutenberg.org/ebooks/28718
