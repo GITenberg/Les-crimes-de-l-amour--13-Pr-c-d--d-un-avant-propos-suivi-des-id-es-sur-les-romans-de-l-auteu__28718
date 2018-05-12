@@ -21,6 +21,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Donatien_Alphonse_Fran%C3%A7ois_de_Sade
     - http://en.wikipedia.org/wiki/Marquis_de_Sade
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28718#Les-crimes-de-l-amour--13-Pr-c-d--d-un-avant-propos-suivi-des-id-es-sur-les-romans-de-l-auteu_
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2009-05-08'
 gutenberg_type: Text
